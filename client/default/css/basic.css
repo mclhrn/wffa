@@ -1,0 +1,24 @@
+* {
+	padding: 0px;
+}
+.bar{
+	height:32px;
+	text-align:center;
+	padding-top:10px;
+}
+#logo {
+	text-align: right;
+}
+.spacer {
+	height: 15px;
+}
+#content iframe {
+	margin: 0px;
+	padding: 0px;
+}
+.style {
+		min-height: 396px;
+}
+.main-background {
+	background-image: url(images/bright_squares.png);
+}
